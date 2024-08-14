@@ -45,7 +45,7 @@ Install dependencies
 ```
 
 Start the server
-![TailwindLandingPage](https://github.com/user-attachments/assets/c6d9780b-b3ff-452c-ac34-c96b07d52774)
+
 
 ```bash
   npm run start
